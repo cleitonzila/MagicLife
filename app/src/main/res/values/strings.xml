@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MagicLife</string>
+    <string name="battlebackground">battleBackground</string>
+    <string name="player_2">Player 2</string>
+    <string name="player_1">Player 1</string>
+    <string name="damage">damage</string>
+    <string name="heal">Heal</string>
+    <string name="reset">reset</string>
+</resources>
